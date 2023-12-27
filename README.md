@@ -47,5 +47,6 @@ Attention to accessibility, ensuring that the game is playable and enjoyable by 
 
 This 2048 game project demonstrates a balanced and effective use of web technologies, offering a fun and challenging puzzle experience while showcasing technical proficiency in JavaScript, SCSS, and HTML.
 
+Project: https://reseneweb.github.io/2048/
 
 
