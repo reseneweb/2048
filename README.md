@@ -44,6 +44,7 @@ The game is tested and optimized for compatibility across different web browsers
 
 Attention to accessibility, ensuring that the game is playable and enjoyable by a wider range of users, including those with disabilities.
 
+
 This 2048 game project demonstrates a balanced and effective use of web technologies, offering a fun and challenging puzzle experience while showcasing technical proficiency in JavaScript, SCSS, and HTML.
 
 
